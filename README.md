@@ -1,6 +1,8 @@
 # elk
 Docker ELK
 
+https://techexpert.tips/elasticsearch/elasticsearch-password-recovery/
+
 Nginx log -> logstash/ELK
 Dockerlog -> filebeat/ELK
 
